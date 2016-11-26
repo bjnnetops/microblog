@@ -1,0 +1,5 @@
+flask/bin/*
+flask/include/*
+flask/lib/*
+flask/local/*
+flask/pip-selfcheck.json
